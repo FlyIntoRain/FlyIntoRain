@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there, I'm 郑乾枫 👋
+
+> **永远有梦想，一直在路上** | 计算机图形学 & 游戏引擎开发爱好者
+
+👨‍🎓 **山东大学** (985/211) · 数字媒体技术 本科 (2023 - 2027)
+📫 **联系邮箱:** [1182183304@qq.com](mailto:1182183304@qq.com)
+
+---
+
+## 🛠️ 技能特长 (Tech Stack)
+- **编程语言:** C/C++ (熟练 STL 与数据结构) | C# | GLSL | JavaScript
+- **引擎 & 图形库:** Unity 3D | Unreal Engine 5 (UE5) | Three.js
+- **图形学算法:** PCSS | PRT | SSR | RTRT 等实时渲染算法
+- **前端技术:** Vue.js
+- **开发工具:** Git | LFS | Sourcetree 
+
+---
+
+## 💻 实习经历 (Experience)
+
+### 🏢 山东华云三维科技有限公司 | 渲染岗研发实习生
+*2026.01 - 2026.03*
+- 参与国产自主三维 CAD 软件（CrownCAD）的产品渲染模块研发与维护。
+- 使用 **Three.js** 修复了倒影被裁断、白背景下轮廓线不明显、透视相机下锯齿严重等核心渲染效果问题。
+- 为产品新增了正面、反面、法线贴图、深度贴图等多种渲染模式。
+- 快速掌握并使用 **Vue.js** 修复了 UI 显隐置灰等逻辑显示问题。
+
+---
+
+## 🚀 项目经历 (Projects)
+
+### [🎮 基于 Unity 和环幕的中华传统文化交互体验系统](https://www.bilibili.com/video/BV16tBkBmE78/?spm_id_from=333.1387.homepage.video_card.click&vd_source=e3b1cea6edc3afecf008aeda3ea89cc9)
+*11人团队项目 | 担任队长 & 核心开发*
+- **跨端通信与展示:** 使用 Unity 自带的 `WebSocketSharp` 库实现手机端与电脑端通信，结合 **Three.js** 实现 3D 文物展示。
+- **角色控制:** 使用 `NavMeshAgent` 实现角色寻路，通过 `Avatar` 系统和 `Blend Tree` 根据手机摇杆驱动角色行走动画。
+- **性能调优 (核心亮点):** 
+  - 针对多人实时交互需求，采用多线程操作确保各玩家操作互不干扰。
+  - 针对首屏加载慢的痛点，通过本地化第三方库、移除 Tailwind CDN、本地部署静态 CSS 并使用 `defer` 优化脚本加载顺序，**将加载速度从 30 秒大幅缩减至 0.5 秒**。
+
+### 🧟‍♂️ 基于 UE5 的丧尸 FPS 游戏 Demo
+*个人独立开发*
+- 独立完成包含关卡、玩法、美术、UI 和程序架构的完整游戏 Demo。
+- **视觉特效:** 利用 **Niagara** 粒子系统实现逼真的血液和爆炸特效。
+- **动画与反馈:** 使用 UE5 自带骨骼绑定和 **Control Rig** 设置枪械与人物动画，通过 **UMG** 关键帧动画技术实现受伤反馈系统。
+- **蓝图系统:** 纯蓝图实现包含装备、射击、换弹的完整武器系统逻辑。
+
+---
+
+## 📚 学习与探索 (Education & Research)
+
+- 🏆 **荣誉奖项:** 综合成绩排名前 10%，多次获得优秀学生奖学金。担任23级数媒班班长、校五星级社团第二负责人。
+- 📊 **学术成绩:** 编程基础扎实，C++程序设计绩点 **4.4/5.0**，《实时绘制》课程绩点 **4.2/5.0**。
+- 💡 **图形学进阶:** 
+  - 系统学习 Games101、Games202 系列，成功代码复现了 PCSS、PRT、SSR、RTRT 等实时渲染算法。
+  - 目前正在深耕 **Games104**，计划基于 Piccolo 引擎开发一款侧重于渲染的自研引擎。
 
 <!--
-**FlyIntoRain/FlyIntoRain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⭐️ 下方可以添加你的 GitHub 统计卡片 (GitHub Stats Card)
+可以在这里配置: https://github.com/anuraghazra/github-readme-stats
 -->
