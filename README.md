@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ 技能特长 (Tech Stack)
+## 🛠️ 技能特长 
 - **编程语言:** C/C++ (熟练 STL 与数据结构) | C# | GLSL | JavaScript
 - **引擎 & 图形库:** Unity 3D | Unreal Engine 5 (UE5) | Three.js
 - **图形学算法:** PCSS | PRT | SSR | RTRT 等实时渲染算法
@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 实习经历 (Experience)
+## 💻 实习经历 
 
 ### 🏢 山东华云三维科技有限公司 | 渲染岗研发实习生
 *2026.01 - 2026.03*
@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 项目经历 (Projects)
+## 🚀 项目经历
 
 ### [🎮 基于 Unity 和环幕的中华传统文化交互体验系统](https://www.bilibili.com/video/BV16tBkBmE78/?spm_id_from=333.1387.homepage.video_card.click&vd_source=e3b1cea6edc3afecf008aeda3ea89cc9)
 *11人团队项目 | 担任队长 & 核心开发*
@@ -37,7 +37,7 @@
   - 针对多人实时交互需求，采用多线程操作确保各玩家操作互不干扰。
   - 针对首屏加载慢的痛点，通过本地化第三方库、移除 Tailwind CDN、本地部署静态 CSS 并使用 `defer` 优化脚本加载顺序，**将加载速度从 30 秒大幅缩减至 0.5 秒**。
 
-### 🧟‍♂️ 基于 UE5 的丧尸 FPS 游戏 Demo
+### 🧟‍♂️ [基于 UE5 的丧尸 FPS 游戏 Demo](https://www.bilibili.com/video/BV1m7ByBAE5z/?spm_id_from=333.1387.homepage.video_card.click&vd_source=e3b1cea6edc3afecf008aeda3ea89cc9)
 *个人独立开发*
 - 独立完成包含关卡、玩法、美术、UI 和程序架构的完整游戏 Demo。
 - **视觉特效:** 利用 **Niagara** 粒子系统实现逼真的血液和爆炸特效。
@@ -46,10 +46,10 @@
 
 ---
 
-## 📚 学习与探索 (Education & Research)
+## 📚 学习与探索
 
 - 🏆 **荣誉奖项:** 综合成绩排名前 10%，多次获得优秀学生奖学金。担任23级数媒班班长、校五星级社团第二负责人。
-- 📊 **学术成绩:** 编程基础扎实，C++程序设计绩点 **4.4/5.0**，《实时绘制》课程绩点 **4.2/5.0**。
+- 📊 **课程成绩:** 编程基础扎实，C++程序设计绩点 **4.4/5.0**，《实时绘制》课程绩点 **4.2/5.0**。
 - 💡 **图形学进阶:** 
   - 系统学习 Games101、Games202 系列，成功代码复现了 PCSS、PRT、SSR、RTRT 等实时渲染算法。
   - 目前正在深耕 **Games104**，计划基于 Piccolo 引擎开发一款侧重于渲染的自研引擎。
